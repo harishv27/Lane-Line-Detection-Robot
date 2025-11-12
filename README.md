@@ -13,7 +13,7 @@ The system helps TurtleBot3 detect lanes, vehicles, and obstacles in real time f
 - Outputs bounding boxes and masks on live camera feed  
 - Achieved **over 90% detection accuracy** on custom data
 
-- ## 🧰 Tech Stack
+## 🧰 Tech Stack
 - **Programming Language:** Python  
 - **Frameworks & Libraries:** PyTorch, OpenCV, Ultralytics YOLOv8, NumPy  
 - **Tools:** ROS, TurtleBot3, Google Colab and VS Code  
